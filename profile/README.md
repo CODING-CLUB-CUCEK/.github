@@ -26,7 +26,7 @@ git push origin main
 
 ## Club Details
 
-- **Club Name**: Coding Club CuCEK (CCube)
+- **Club Name**: Coding Club CUCEK (CCube)
 - **Location**: Cochin University College of Engineering Kuttanad, Kerala, India
 
 ## Contact
